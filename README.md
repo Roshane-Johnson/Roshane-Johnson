@@ -12,7 +12,7 @@
 - 🏢 I'm currently working at **Amber Group Limited (Trainee)**
 - ⚙️ I use daily: `.js`, `.html`, `.css`
 - 🌍 I'm mostly active within the **JavaScript Community**
-- 🌱 Learning all about **Programming, Design & Bussiness**
+- 🌱 Learning all about **Programming**, **Design & Bussiness**
 - 💬 Ping me about **design**, **branding**, **marketing**, **development** **&** **graphic design**
 - 📫 Reach me: [twitter.com/kendrip\_](https://twitter.com/kendrip_)
 - ⚡️ Fun fact: I'm a huge fan of Minecraft
