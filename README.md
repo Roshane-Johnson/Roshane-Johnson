@@ -5,15 +5,15 @@
 
 ##### NOW
 
-- ✨ Learning AngularJS & NodeJS.
+- ✨ Learning AngularJS, Angular & NodeJS.
 - 🇯🇲 Creating a brighter future for Jamaica.
 
 ##### BIO
 
-- 🏢 I'm currently working at **Amber Group Limited (Trainee)**
-- ⚙️ I use daily: `.js`, `.html`, `.css`
+- 🏢 I'm currently working at **Amber Group Limited (Intern)**
+- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`
 - 🌍 I'm mostly active within the **JavaScript Community**
-- 🌱 Learning all about **Programming**, **Design & Bussiness**
-- 💬 Ping me about **design**, **branding**, **marketing**, **development** **&** **graphic design**
+- 🌱 Learning all about **Programming**, **Marketing**, **Entrepreneurship**
+- 💬 Ping me about **design**, **marketing**, **development** **&** **graphic design**
 - 📫 Reach me: [twitter.com/kendrip\_](https://twitter.com/kendrip_)
-- ⚡️ Fun fact: I'm a huge fan of Minecraft
+- ⚡️ Fun fact: I'm a huge fan of Minecraft and I'm addicted to writing code.
