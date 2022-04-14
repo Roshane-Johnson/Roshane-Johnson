@@ -1,5 +1,5 @@
 ### Hi there 👋. 
-### I'm a Full-Stack Developer working in St. Catherine, Jamaica.
+### I'm a FrontEnd Developer working in St. Catherine, Jamaica.
 
 <p align="left"><a href="https://twitter.com/kendrip_" target="blank"><img src="https://img.shields.io/twitter/follow/kendrip_?logo=twitter&style=for-the-badge" alt="kendrip_" /></a></p>
 
