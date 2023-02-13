@@ -5,7 +5,7 @@
 
 ##### NOW
 
-- ✨ Learning AngularJS, Angular & NodeJS.
+- ✨ Learning Angular, Flutter & NodeJS.
 - 🇯🇲 Creating a brighter future for Jamaica.
 
 ##### BIO
